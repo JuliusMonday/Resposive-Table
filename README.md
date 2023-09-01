@@ -1,2 +1,2 @@
-# Resposive-Table
- This Project is the collection of the names, department, and level of some of my friends in Federal polytechnic oko Anambra State, very responsive.
+# Responsive-Table
+ This Project is the collection of the names, departments, and levels of some of my friends in Federal Polytechnic Oko Anambra State, very responsive table design.
